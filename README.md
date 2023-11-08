@@ -33,3 +33,6 @@ The data used in this project is sourced from public car listings, with the focu
 
 ## Contributing
 Contributions to this project are welcome. Please refer to the contributing guidelines for more details.
+
+## License
+This project is licensed under the Apache License 2.0 - see the LICENSE file for details.

@@ -9,7 +9,7 @@ This repository hosts a data analysis project that investigates the regional pri
 - Price comparison across different regions
 
 ## Prerequisites
-List any libraries, tools, or frameworks that need to be installed to run your project, like:
+Libraries, tools, or frameworks that need to be installed to run the project:
 - Python
 - BeautifulSoup4
 - pandas

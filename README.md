@@ -1,2 +1,16 @@
-# Hungary-Used-Car-Price-Analysis
-A data analysis project to assess price differences in used car listings across Hungarian regions, focusing on popular brands and market trends.
+# Hungary Used Car Price Analysis
+
+## Project Overview
+This repository hosts a data analysis project that investigates the regional price disparities in used car listings on the Hungarian website Hasznaltauto.hu. The analysis focuses on understanding market trends and testing the hypothesis that cars are listed for higher prices outside of Budapest.
+
+## Features
+- Web scraping with Python using `requests` and `BeautifulSoup`
+- Data analysis and visualization
+- Price comparison across different regions
+
+## Prerequisites
+List any libraries, tools, or frameworks that need to be installed to run your project, like:
+- Python
+- BeautifulSoup4
+- pandas
+- matplotlib
